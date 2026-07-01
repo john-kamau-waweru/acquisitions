@@ -1,0 +1,2 @@
+{"level":"info","message":"Hello from acquisitions!","service":"user-service"}
+{"level":"info","message":"::1 - - [01/Jul/2026:10:52:00 +0000] \"GET / HTTP/1.1\" 200 26 \"-\" \"PostmanRuntime/7.54.0\"","service":"user-service"}
